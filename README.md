@@ -11,9 +11,9 @@ The Superstore Dashboard is a data visualization project that uses interactive c
 **Time-based Analysis:** Filter data based on specific time periods.
 **Installation:**
 
-Clone the repository: git clone https://github.com/your-username/superstore-dashboard.git
-Navigate to the project directory: cd superstore-dashboard
-Open index.html in your preferred web browser.
+Clone the repository to your local machine.
+Navigate to the project directory.
+Open the index.html file in your preferred web browser.
 **Usage:**
 
 Interact with charts to explore different aspects of sales data.
